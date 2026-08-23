@@ -23,11 +23,11 @@ The purpose of this repository is to document my learning journey, practical imp
 
 ## 📅 Assignments
 
-| Day   | Topic / Assignment               | Status      |
-| ----- | -------------------------------- | ----------- |
-| Day 2 | Python Programming & Basic Tasks | ✅ Completed |
-| Day 3 | Coming Soon                      | 🔄          |
-| Day 4 | Coming Soon                      | 🔄          |
+| Day   | Topic / Assignment                          | Status      |
+| ----- | ------------------------------------------- | ----------- |
+| Day 2 | Python Programming & Basic Tasks            | ✅ Completed |
+| Day 3 | Python Functions, Lists & Dictionaries ([Questions](./Day_3/Day_3_Assignment_Questions.docx) · [Notebook](./Day_3/Python_Basic_Assignment_2.ipynb)) | ✅ Completed |
+| Day 4 | Coming Soon                                 | 🔄          |
 
 This table will be updated as new assignments are completed.
 
